@@ -1,4 +1,7 @@
 # AngleDetection
+
+Gyroscope connected to mobile app
+
 Adapt wifi credentials
 
 Mobile App:
